@@ -29,5 +29,9 @@ print("Sonido:", sonido)
 def saludasA(nombre):
     print(f"Hola, {nombre}!")
 
+def despedidasA(nombre):
+    print(f"Adiós, {nombre}!")
+
 
 saludasA("Mundo")
+despedidasA("Mundo")
