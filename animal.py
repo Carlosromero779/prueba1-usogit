@@ -24,3 +24,10 @@ print("Edad:", animal.edad)
 print("Statura:", animal.statura)
 sonido = animal.hacer_sonido(animal.nombre)
 print("Sonido:", sonido)
+
+
+def saludasA(nombre):
+    print(f"Hola, {nombre}!")
+
+
+saludasA("Mundo")
