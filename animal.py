@@ -35,3 +35,6 @@ def despedidasA(nombre):
 
 saludasA("Mundo")
 despedidasA("Mundo")
+
+cambiar_nombre = lambda nombre: f"Nuevo nombre: {nombre}"
+print(cambiar_nombre("Gato"))
