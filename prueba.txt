@@ -1,2 +1,5 @@
 sino te has suscrito 
 se te muere las mascota
+la vida avanza que todo cambia yo solo quiero que  pienses que he quedado en pausa no lo olvides tu puedes te amooo 
+class animal: 
+   def __init__(self, jflkj)git 
