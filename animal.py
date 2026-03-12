@@ -39,3 +39,8 @@ despedidasA("Mundo")
 cambiar_nombre = lambda nombre: f"Nuevo nombre: {nombre}"
 print(cambiar_nombre("Gato"))
 "Aca hago una prueba para ver como son los feach"
+
+def trabajo(oficio):
+    print(f"El humano trabaja como {oficio}.")
+
+trabajo("Ingeniero")
