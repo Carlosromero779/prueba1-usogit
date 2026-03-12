@@ -47,3 +47,10 @@ trabajo("Ingeniero")
 
 "prueba de rama para poder bajarla"
 
+"Prueba de rama 3 para solo bajarla"
+
+
+def oficio(oficio):
+    print(f"El humano trabaja como {oficio}.")
+
+    
